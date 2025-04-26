@@ -1,0 +1,14 @@
+[project]
+name = "zygion-util-nodes"
+description = "NODES: Item List, Template Input, Template Processor, Scene Queue Node, Trigger Passthrough Node"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/zygion/comfyui-zygion-util-nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-zygion-util-nodes"
+Icon = ""
